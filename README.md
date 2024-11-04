@@ -1,0 +1,1 @@
+# Sequoia-on-Atermiter-X99H-E5-2670v3-AMD-RX6600-OpenCore-1.0.2
